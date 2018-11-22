@@ -1,0 +1,2 @@
+# hashcat-rules
+hashcat-rules
